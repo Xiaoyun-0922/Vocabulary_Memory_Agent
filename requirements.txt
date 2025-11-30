@@ -1,0 +1,7 @@
+langgraph
+langchain
+langchain-openai
+openai
+streamlit
+fpdf2
+python-dotenv
